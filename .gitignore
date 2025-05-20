@@ -7,3 +7,5 @@ Thumbs.db
 /build
 /node_modules
 *.log
+# UPDATED THE FILE
+temp.log
