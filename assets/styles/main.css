@@ -1,0 +1,24 @@
+/* Dark theme styles */
+body {
+  background: #121212;
+  color: #ffffff;
+}
+
+/* Subscribe button styles (from other branch) may conflict later */
+.subscribe-btn {
+  background: #bb86fc;
+  color: #000000;
+}
+/* Subscribe button styles */
+.subscribe-btn {
+  background: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.subscribe-btn:hover {
+  background: #0056b3;
+}
